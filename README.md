@@ -19,6 +19,7 @@ Follow these steps to get started with the J0ker Gorilla Tag Menu Template:
 2. Open the `J0kerMenuTemp.csproj` file.  
 3. Customize and enjoy your new mod menu!
 
+Need a tut: [WATCH](https://youtu.be/gkyuVAy8AxM)
 ---
 
 ## 📄 License
