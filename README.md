@@ -19,6 +19,8 @@ Follow these steps to get started with the J0ker Gorilla Tag Menu Template:
 2. Open the `J0kerMenuTemp.csproj` file.  
 3. Customize and enjoy your new mod menu!
 
+[Download Bepin EX](https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.2).  
+
 Need a tut: [WATCH](https://youtu.be/gkyuVAy8AxM)
 ---
 
